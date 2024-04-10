@@ -1,6 +1,6 @@
 {
   "name": "@redux-offline/expo",
-  "version": "2.6.0-expo.0",
+  "version": "2.6.1-exp",
   "description": "Redux Offline-First Architecture",
   "main": "lib/index.js",
   "types": "./typings.d.ts",
@@ -33,14 +33,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redux-offline/redux-offline"
+    "url": "git+https://github.com/preppygassou/redux-offline-expo"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/redux-offline/redux-offline/issues"
+    "url": "https://github.com/preppygassou/redux-offline-expo/issues"
   },
-  "homepage": "https://github.com/redux-offline/redux-offline#readme",
+  "homepage": "https://github.com/preppygassou/redux-offline-expo#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
