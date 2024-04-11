@@ -1,6 +1,6 @@
 {
-  "name": "@redux-offline/expo",
-  "version": "2.6.1-exp",
+  "name": "redux-offline-expo",
+  "version": "1.0.0",
   "description": "Redux Offline-First Architecture",
   "main": "lib/index.js",
   "types": "./typings.d.ts",
